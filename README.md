@@ -73,17 +73,17 @@ I'm a passionate developer focused on creating elegant and functional digital ex
 <br />
 <h3 align="left"><strong>Current Learning</strong></h3>
 <ul style="list-style-type: none; padding-left: 0;">
-    <li>✅ <strong>Deepening expertise</strong> in modern web frameworks like <span style="color: #000000; background-color: #f5f5f5; padding: 2px 6px; border-radius: 4px;">Next.js</span></li>
-    <li>🔍 <strong>Exploring</strong> advanced content management with <span style="color: #26a0da; background-color: #f0f8ff; padding: 2px 6px; border-radius: 4px;">Payload CMS</span></li>
-    <li>☁️ <strong>Mastering</strong> cloud deployment on <span style="color: #000000; background-color: #f5f5f5; padding: 2px 6px; border-radius: 4px;">Vercel</span> & <span style="color: #FF9900; background-color: #FFF8F0; padding: 2px 6px; border-radius: 4px;">AWS</span></li>
-  </ul>
+    <li>✅ <strong>Mastering</strong> modern web frameworks like Next.js</li>
+    <li>🔍 <strong>Exploring</strong> advanced content management</li>
+    <li>☁️ <strong>Deploying</strong> on Vercel, AWS</li>
+</ul>
 <br />
 <h3 align="left"><strong>Skill Deepening</strong></h3>
 <ul style="list-style-type: none; padding-left: 0;">
-    <li>📈 <strong>Improving</strong> accessibility and SEO in <span style="color: #000000; background-color: #f5f5f5; padding: 2px 6px; border-radius: 4px;">Next.js</span> apps</li>
-    <li>✍️ <strong>Writing</strong> clean, maintainable code with <span style="color: #4B32C3; background-color: #F5F5FF; padding: 2px 6px; border-radius: 4px;">ESLint</span> + <span style="color: #F7B93E; background-color: #FFF8F0; padding: 2px 6px; border-radius: 4px;">Prettier</span></li>
-    <li>🚀 <strong>Exploring</strong> <span style="color: #FF5A1F; background-color: #FFF0ED; padding: 2px 6px; border-radius: 4px;">Astro</span> for fast, modern web experiences</li>
-    <li>⚙️ <strong>Enhancing</strong> backend skills with <span style="color: #68a063; background-color: #f0fff0; padding: 2px 6px; border-radius: 4px;">Node.js</span> + <span style="color: #3178c6; background-color: #f5f5ff; padding: 2px 6px; border-radius: 4px;">TypeScript</span></li>
+    <li>📈 <strong>Boosting</strong> accessibility and SEO</li>
+    <li>✍️ <strong>Writing</strong> clean, maintainable code</li>
+    <li>🚀 <strong>Exploring</strong> fast web experiences</li>
+    <li>⚙️ <strong>Enhancing</strong> backend with Node.js</li>
 </ul>
 <br />
 
