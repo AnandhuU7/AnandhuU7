@@ -74,7 +74,7 @@ I'm a passionate developer focused on creating elegant and functional digital ex
 <h3 align="left"><strong>Current Learning</strong></h3>
 <ul style="list-style-type: none; padding-left: 0;">
     <li>✅ <strong>Mastering</strong> modern web frameworks like Next.js</li>
-    <li>🔍 <strong>Exploring</strong> advanced content management</li>
+    <li>🔍 <strong>Exploring</strong> advanced content management with Payload CMS</li>
     <li>☁️ <strong>Deploying</strong> on Vercel, AWS</li>
 </ul>
 <br />
